@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Mini EGGric ",
+	"description": "Mini Eggric \"El huevo azul VTuber de 22cm que nos pega\" es un meme proveniente de la serie del \"Súper Jueves\" un segmento colaborativo de los Youtuber españoles Rangugamer y EricRod.\n\n\n\n\n\n\n\n",
+	"links": {
+		"website": [
+			"https://www.youtube.com/playlist?list=PLutfYmbsCnJicQnfksZwxrs4ZI7Qa8qF4"
+		],
+		"subreddit": [
+			"superjueves"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				304,
+				715
+			],
+			[
+				314,
+				715
+			],
+			[
+				314,
+				701
+			],
+			[
+				304,
+				700
+			],
+			[
+				304,
+				701
+			]
+		]
+	},
+	"center": {
+		"250": [
+			309,
+			708
+		]
+	}
+}
